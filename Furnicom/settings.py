@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-gu@%o2p#de0td+cgu%!=g79+l)6xemb5(uc+0d+d97q(%e8a52
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.8', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['192.168.1.8', '127.0.0.1', 'localhost', 'furnishop-2rtf.onrender.com']
 
 
 # Application definition
